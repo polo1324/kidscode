@@ -6,6 +6,7 @@ Simple game written in Python that where the kids can put in what flavours of a 
 ### Resources
 - The code is already made in Trinket:
 - [Trinket Link](https://trinket.io/python/f1e5a6250b) 
+- [Other colour codes](https://www.webucator.com/article/python-color-constants-module/)
 - Poster to print with ingredients listed
 
 ### How to use
@@ -17,3 +18,5 @@ Simple game written in Python that where the kids can put in what flavours of a 
  - To make the activity more interactive you can have the kids:
     - create their own ingredient flavours - add after line 34
     - change the size of the cherry - last nuber on line 93
+    - change the size of the candle flame - last number on line 91
+
