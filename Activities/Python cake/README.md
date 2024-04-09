@@ -17,6 +17,6 @@ Simple game written in Python that where the kids can put in what flavours of a 
  - If candle is choosen user can enter how many candles they want to add
  - To make the activity more interactive you can have the kids:
     - create their own ingredient flavours - add after line 34
-    - change the size of the cherry - last nuber on line 93
+    - change the size of the cherry - last number on line 93
     - change the size of the candle flame - last number on line 91
 
